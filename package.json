@@ -1,0 +1,22 @@
+{
+  "name": "use-formatted-time",
+  "version": "1.0.0",
+  "description": "A React hook for formatting and updating time in human-readable units.",
+  "main": "src/useFormattedTime.js",
+  "keywords": [
+    "react",
+    "hooks",
+    "time",
+    "formatted time",
+    "time management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadabBhai/use-formatted-time.git"
+  },
+  "author": "shadab khan ",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  }
+}
