@@ -1,6 +1,6 @@
 {
   "name": "use-formatted-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React hook for formatting and updating time in human-readable units.",
   "main": "src/useFormattedTime.js",
   "keywords": [
